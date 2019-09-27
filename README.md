@@ -1,4 +1,4 @@
-# hugoBasicExample
+# hugoBasicExample 2
 
 This is an example site for [Hugo](https://gohugo.io/).
 
